@@ -92,6 +92,8 @@ set novisualbell
 set t_vb=
 set tm=500
 
+" Set underline cursor
+set cursorline
 
 """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 " => Colors and Fonts
